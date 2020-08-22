@@ -42,6 +42,10 @@ ul {
   font-size: 16px;
 }
 
+ol {
+  font-size: 16px;
+}
+
 a:link {color: blue;}
 a:visited {color: purple;}
 a:hover {color: peachpuff;}
