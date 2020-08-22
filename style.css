@@ -1,0 +1,48 @@
+div img {
+  width: 400px;
+  display: block;
+  padding: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+main {
+  background-color: #D1BECF;
+  color: rgb(97, 117, 98);
+}
+
+header div {
+  height: 150px;
+  background: #BDD9BF;
+  color: rgb(196, 143, 190);
+  font-family: cursive;
+}
+
+hr {
+  color: black;
+  width: 500px;
+}
+
+footer div {
+  background: #BDD9BF;
+  color: rgb(196, 143, 190);
+  font-family: cursive;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+ul {
+  font-size: 16px;
+}
+
+a:link {color: blue;}
+a:visited {color: purple;}
+a:hover {color: peachpuff;}
+a:active {color: black;}
