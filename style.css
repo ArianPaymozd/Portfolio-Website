@@ -16,7 +16,7 @@ main {
 main h2 {
   padding-top: 30px;
   font-size: 28px;
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Nanum Pen Script', 'Trebuchet';
   font-weight: 400;
   margin: 0;
   text-align: center;
@@ -40,7 +40,7 @@ header h1 {
   color: #eff0e5;
   margin: 0;
   padding: 20px 0;
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Nanum Pen Script', 'Trebuchet';
   font-size: 37px;
 }
 
@@ -48,7 +48,7 @@ header h4 {
   display: flex;
   color: #eff0e5;
   font-size: 22px;
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Nanum Pen Script', 'Trebuchet';
   justify-content: center;
   margin: 0;
 }
@@ -102,7 +102,7 @@ header nav ul li a {
 
 .item-links1 h4 {
   font-size: 28px;
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Nanum Pen Script', 'Trebuchet';
   font-weight: 400;
   text-align: center;
 }
