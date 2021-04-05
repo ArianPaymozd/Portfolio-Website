@@ -79,7 +79,6 @@ function App() {
                   <li>RESTful APIs</li>
                   <li>Unit Testing</li>
                   <li>Algorithms</li>
-                  <li>Data Structures</li>
                 </ul>
               </article>
               <div class="projects" id="projects">
@@ -168,7 +167,7 @@ function App() {
                 <input className='contact-input' aria-label='name' type="text" id="name" name="name" placeholder="Please enter your name" required />
                 <input className='contact-input' aria-label='email' type="email" id="_replyto" name="_replyto" placeholder="Please enter your email" required />
                 <input className='contact-input' aria-label='message' type="text" id="message" name="message" placeholder="Plese enter your message" required />
-                <input className='contact-input' aria-label='send' type="submit" value="Send" />
+                <input className='contact-send' aria-label='send' type="submit" value="Send" />
               </form>
               </article>
             </section>
